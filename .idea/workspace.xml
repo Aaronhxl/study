@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87ff4dc5-4e89-4372-8ff9-5a1debd38ab3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1571714621">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="56" />
+          <entry key="project.open.time.0" value="16" />
+          <entry key="project.open.time.1" value="16" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.7" value="9" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="59" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="415" />
+          <entry key="jpg" value="3" />
+          <entry key="txt" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="Image" value="3" />
+          <entry key="JAVA" value="446" />
+          <entry key="PLAIN_TEXT" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="36" />
+          <entry key="java" value="47745" />
+          <entry key="txt" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="49011" />
+          <entry key="PLAIN_TEXT" value="50" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0423/BlockingQueue/ArrayBlockingQueueDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0423/BlockingQueue/SynchronousQueueDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0423/Produtor_Consumer/TraditionDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0423/Produtor_Consumer/ConditionDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="696">
+              <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>remove</find>
+      <find>contain</find>
+      <find>size</find>
+      <find>toArray();</find>
+      <find>toArray()</find>
+      <find>hashcode</find>
+      <find>add</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0307/ConcurrentUtils/T08_TransferQueue.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0307/ConcurrentUtils/T09_SynchronusQueue.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0308/T03_Callable.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0308/Executors.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0308/T04_Executors.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0308/T07_ParallelComputing.java" />
+        <option value="$PROJECT_DIR$/src/Java_init/Test01.java" />
+        <option value="$PROJECT_DIR$/src/Java_init/StaticTest.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0308/T01_MyExecutor.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0308/T02_ExecutorService.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0308/T05_ThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0308/T06_Future.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0308/T08_CachedPool.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0308/T09_SingleThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0308/T10_ScheduledPool.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0308/T11_WorkingStealingPool.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0308/T12_ForkJoinPool.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0308/T13_ThreadPoolExecutor.java" />
+        <option value="$PROJECT_DIR$/src/JavaString/Test01.java" />
+        <option value="$PROJECT_DIR$/src/JavaString/Test02.java" />
+        <option value="$PROJECT_DIR$/src/Java0312/Test01.java" />
+        <option value="$PROJECT_DIR$/src/Java0312/Test02.java" />
+        <option value="$PROJECT_DIR$/src/Java0315/Test01.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0405/demo01.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0405/demo02.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0405/demo03.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0420/PlusPlusDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0420/VolatileDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0420/CASDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0420/AtomicReference/AtomicReferenceDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0420/ABADemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0420/ContainerNotSafeDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0420/SingletonDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0420/ContainerNotSafe/ContainerNotSafeDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0420/ContainerNotSafe/ContainerNotSafeDemo02.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0420/ContainerNotSafe/ContainerNotSafeDemo03.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0422/TranferValueTest.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0422/ReenTrantLockDemo01.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0422/ReenTrantLockDemo02.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0422/SpinLockDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0422/ReentrantReadWirteLockDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0422/CountDownLatchDemmo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0422/SemparhoreDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0422/SempaphoreDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0422/CountDownLatchDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0422/CyclicBarrierDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0422/SemaphoreDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0423/BlockingQueue/ArrayBlockingQueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0423/BlockingQueue/SynchronousQueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0423/Produtor_Consumer/TraditionDemo.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcurrent/day_0423/Produtor_Consumer/ConditionDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven\repository" />
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ClassStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClassStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClassStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClassStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="add&#9;PSI&#9;JAVA://Java0222.Lamada.Calculator#add" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556002197072" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ClassStudy.java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/ClassStudy.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="BeforeTest" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JavaConcurrent.day_0307.TicketSeller" />
+      <recent name="JavaConcurrent.day_0305.demo22" />
+      <recent name="JavaConcurrent.day_0305.demo21" />
+      <recent name="JavaConcurrent.day_0305.demo20" />
+      <recent name="JavaConcurrent.day_0305" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\ideaProject\ClassStudy\src\JavaConcurrent\day_0306" />
+      <recent name="E:\idea\ideaProject\ClassStudy\src\JavaConcurrent\day_0305\demo23" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ConditionDemo">
+    <configuration name="ArrayBlockingQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConcurrent.day_0423.BlockingQueue.ArrayBlockingQueueDemo" />
+      <module name="jian" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConcurrent.day_0423.BlockingQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConcurrent.day_0423.Produtor_Consumer.ConditionDemo" />
+      <module name="jian" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConcurrent.day_0423.Produtor_Consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConcurrent.day_0422.SemaphoreDemo" />
+      <module name="jian" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConcurrent.day_0422.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronousQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConcurrent.day_0423.BlockingQueue.SynchronousQueueDemo" />
+      <module name="jian" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConcurrent.day_0423.BlockingQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TraditionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConcurrent.day_0423.Produtor_Consumer.TraditionDemo" />
+      <module name="jian" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConcurrent.day_0423.Produtor_Consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SemaphoreDemo" />
+      <item itemvalue="Application.ArrayBlockingQueueDemo" />
+      <item itemvalue="Application.SynchronousQueueDemo" />
+      <item itemvalue="Application.TraditionDemo" />
+      <item itemvalue="Application.ConditionDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConditionDemo" />
+        <item itemvalue="Application.TraditionDemo" />
+        <item itemvalue="Application.SynchronousQueueDemo" />
+        <item itemvalue="Application.ArrayBlockingQueueDemo" />
+        <item itemvalue="Application.SemaphoreDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87ff4dc5-4e89-4372-8ff9-5a1debd38ab3" name="Default Changelist" comment="" />
+      <created>1544284453225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544284453225</updated>
+      <workItem from="1544284455411" duration="1769000" />
+      <workItem from="1544370858921" duration="3027000" />
+      <workItem from="1544417437794" duration="62000" />
+      <workItem from="1544776379873" duration="5893000" />
+      <workItem from="1544931601249" duration="107000" />
+      <workItem from="1545109359639" duration="485000" />
+      <workItem from="1545110007777" duration="10332000" />
+      <workItem from="1545282297875" duration="1473000" />
+      <workItem from="1545363111350" duration="5924000" />
+      <workItem from="1545390881051" duration="1927000" />
+      <workItem from="1545402890996" duration="454000" />
+      <workItem from="1545445928379" duration="1917000" />
+      <workItem from="1545457450628" duration="4400000" />
+      <workItem from="1545650757099" duration="765000" />
+      <workItem from="1545815717710" duration="5044000" />
+      <workItem from="1545884204049" duration="11877000" />
+      <workItem from="1546350126585" duration="619000" />
+      <workItem from="1549005003851" duration="1401000" />
+      <workItem from="1549198047794" duration="320000" />
+      <workItem from="1549344016514" duration="13477000" />
+      <workItem from="1549719884335" duration="39000" />
+      <workItem from="1549720576407" duration="975000" />
+      <workItem from="1549974708636" duration="612000" />
+      <workItem from="1550071455379" duration="599000" />
+      <workItem from="1550300144533" duration="5516000" />
+      <workItem from="1550326715896" duration="599000" />
+      <workItem from="1550404596162" duration="18790000" />
+      <workItem from="1550799720658" duration="16952000" />
+      <workItem from="1550886354148" duration="18668000" />
+      <workItem from="1550980364740" duration="12744000" />
+      <workItem from="1551090341258" duration="9035000" />
+      <workItem from="1551163552390" duration="9012000" />
+      <workItem from="1551278643237" duration="872000" />
+      <workItem from="1551688282243" duration="5091000" />
+      <workItem from="1551765400839" duration="19892000" />
+      <workItem from="1551842144521" duration="20174000" />
+      <workItem from="1551884383902" duration="64000" />
+      <workItem from="1551920901348" duration="15482000" />
+      <workItem from="1552010078038" duration="13846000" />
+      <workItem from="1552059395831" duration="670000" />
+      <workItem from="1552103739605" duration="9642000" />
+      <workItem from="1552145781266" duration="897000" />
+      <workItem from="1552198733660" duration="4446000" />
+      <workItem from="1552379905693" duration="2349000" />
+      <workItem from="1552465146885" duration="4054000" />
+      <workItem from="1552640031760" duration="693000" />
+      <workItem from="1552751128675" duration="1293000" />
+      <workItem from="1552797595575" duration="90000" />
+      <workItem from="1552898092699" duration="849000" />
+      <workItem from="1552965121363" duration="20000" />
+      <workItem from="1553257667708" duration="1670000" />
+      <workItem from="1553336091046" duration="607000" />
+      <workItem from="1554437686712" duration="4034000" />
+      <workItem from="1554736816876" duration="1828000" />
+      <workItem from="1555035215922" duration="20000" />
+      <workItem from="1555771982253" duration="1800000" />
+      <workItem from="1555812187793" duration="18871000" />
+      <workItem from="1555898756041" duration="19748000" />
+      <workItem from="1555981646934" duration="6741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="320557000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49706745" visible="true" weight="0.27144772" />
+      <window_info id="Structure" order="1" sideWeight="0.50293255" side_tool="true" weight="0.123324394" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286908" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.048387095" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3973607" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32844576" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/Java/Java/jdk1.8.0_181/src.zip!/java/util/Set.java</url>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>dgausgsgfierhhvirhvhrvihri</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Java0227/DefaultValueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java0226/JDK9Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java0226/MapDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java0226/MapDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java0226/MapPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java0225/MultiplyDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java0217/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java0216/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java0209/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java0201/ArrrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/LinkedTransferQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9367">
+          <caret line="541" column="45" selection-start-line="541" selection-start-column="45" selection-end-line="541" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0305/demo06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0405/demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0405/demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0420/PlusPlusDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0405/demo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/atomic/AtomicReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="83" column="19" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/atomic/AtomicStampedReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0420/VolatileDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2109">
+          <caret line="156" column="21" selection-start-line="156" selection-start-column="21" selection-end-line="156" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4902">
+          <caret line="303" column="32" selection-start-line="303" selection-start-column="32" selection-end-line="303" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0307/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0420/ABADemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0420/AtomicReference/AtomicReferenceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0420/CASDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0420/SingletonDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java0222/Lamada/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0308/T12_ForkJoinPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0420/ContainerNotSafe/ContainerNotSafeDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/Java/jdk1.8.0_181/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="224" column="12" selection-start-line="224" selection-start-column="12" selection-end-line="224" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="189" column="23" selection-start-line="189" selection-start-column="23" selection-end-line="189" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/CopyOnWriteArraySet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="258" column="7" lean-forward="true" selection-start-line="258" selection-start-column="7" selection-end-line="258" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0420/ContainerNotSafe/ContainerNotSafeDemo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0420/ContainerNotSafe/ContainerNotSafeDemo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/Java/jdk1.8.0_181/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="135" column="18" lean-forward="true" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="251" column="26" selection-start-line="251" selection-start-column="26" selection-end-line="251" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0422/TranferValueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0422/ReenTrantLockDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0422/ReenTrantLockDemo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0422/SpinLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0422/ReentrantReadWirteLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0422/CyclicBarrierDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0422/CountDownLatchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/Java/jdk1.8.0_181/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2679">
+          <caret line="172" column="23" selection-start-line="172" selection-start-column="11" selection-end-line="172" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/Java/jdk1.8.0_181/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7809">
+          <caret line="443" column="33" selection-start-line="443" selection-start-column="33" selection-end-line="443" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0422/SemaphoreDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0423/BlockingQueue/ArrayBlockingQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0423/BlockingQueue/SynchronousQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0423/Produtor_Consumer/TraditionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/day_0423/Produtor_Consumer/ConditionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ClassStudy</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
